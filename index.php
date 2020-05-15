@@ -1,3 +1,3 @@
-<?php<? php
+<?php
 echo "Olá Mundo"
 ?>
